@@ -1,4 +1,10 @@
 {
     "java.configuration.updateBuildConfiguration": "interactive",
-    "cmake.sourceDirectory": "E:/flutter test/meals/linux"
+    "cmake.sourceDirectory": "E:/flutter test/meals/linux",
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    }
 }

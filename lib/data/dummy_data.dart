@@ -24,8 +24,9 @@ const dummyMeals = [
     title: 'Spaghetti with Tomato Sauce',
     affordability: Affordability.affordable,
     complexity: Complexity.simple,
-    imageUrl:
+    imageUrl: //'https://i.postimg.cc/pL4L65Ss/1000191401-01.jpg',
         'https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Spaghetti_Bolognese_mit_Parmesan_oder_Grana_Padano.jpg/800px-Spaghetti_Bolognese_mit_Parmesan_oder_Grana_Padano.jpg',
+    //'https://en.wikipedia.org/wiki/Ice_cream#/media/File:Ice_cream_with_whipped_cream,_chocolate_syrup,_and_a_wafer_(cropped).jpg',
     duration: 20,
     ingredients: [
       '4 Tomatoes',
